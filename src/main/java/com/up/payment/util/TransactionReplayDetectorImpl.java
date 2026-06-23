@@ -123,6 +123,7 @@ public class TransactionReplayDetectorImpl implements TransactionReplayDetector 
 		System.out.println();
 
 		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 }
