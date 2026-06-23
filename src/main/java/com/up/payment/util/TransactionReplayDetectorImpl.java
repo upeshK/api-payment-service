@@ -119,4 +119,8 @@ public class TransactionReplayDetectorImpl implements TransactionReplayDetector 
 	private static record TrackingRecord(String key, Instant timestamp) {
 	}
 
+	public static void main(String[] args) {
+		System.out.println();
+	}
+
 }
